@@ -1,3 +1,4 @@
+//<<<<<<< HEAD
 console.log("Hola LaunchX desde Node JS")
 
 let myCar = new Object();
@@ -15,3 +16,4 @@ const myModule = (() => {
 
 console.log(myModule.privateFoo)
 console.log (myModule.publicFoo)
+console.log("Hola LaunchX desde Node JS")
